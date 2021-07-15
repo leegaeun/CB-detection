@@ -1,0 +1,7 @@
+Keras==2.1.6
+matplotlib
+numpy
+scikit-image
+scipy
+SimpleITK
+pydicom
